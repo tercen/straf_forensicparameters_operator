@@ -1,9 +1,9 @@
 {
-  "name": "Median",
-  "description": "Return the medium value of a cell",
-  "tags": ["basic statistics"],
+  "name": "Forensic parameters",
+  "description": "Return STRAF forensic parameters",
+  "tags": ["forensics"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/template_operator"],
+  "urls": ["https://github.com/tercen/straf_forensicparameters_operator"],
   "properties": []
 }
 
