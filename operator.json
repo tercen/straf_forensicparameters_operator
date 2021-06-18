@@ -1,6 +1,6 @@
 {
-  "name": "Forensic parameters",
-  "description": "Return STRAF forensic parameters",
+  "name": "STRAF Parameters",
+  "description": "Short Tandem Repeat Analysis for Forensics Parameters: Checks population data in forensic genetics for a variety of statistical parameters before it can be employed for case work",
   "tags": ["forensics"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/straf_forensicparameters_operator"],
